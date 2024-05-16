@@ -50,54 +50,54 @@
     "score_mode": "max_subtask",
     "score_precision": 0
   },
-  "orbs2": {
-    "name": "orbs2",
-    "short_name": "orbs2",
+  "bit_5fstring": {
+    "name": "bit_string",
+    "short_name": "bit_string",
+    "contest": "day2",
+    "max_score": 100.0,
+    "extra_headers": [
+      "Subtask 1 (16)",
+      "Subtask 2 (8)",
+      "Subtask 3 (13)",
+      "Subtask 4 (5)",
+      "Subtask 5 (5)",
+      "Subtask 6 (17)",
+      "Subtask 7 (36)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+  },
+  "tour": {
+    "name": "tour",
+    "short_name": "tour",
     "contest": "day2",
     "max_score": 100.0,
     "extra_headers": [
       "Subtask 1 (15)",
-      "Subtask 2 (6)",
+      "Subtask 2 (20)",
       "Subtask 3 (15)",
-      "Subtask 4 (8)",
-      "Subtask 5 (14)",
-      "Subtask 6 (25)",
+      "Subtask 4 (10)",
+      "Subtask 5 (10)",
+      "Subtask 6 (13)",
       "Subtask 7 (17)"
     ],
-    "order": 1,
+    "order": 5,
     "score_mode": "max_subtask",
     "score_precision": 0
   },
-  "route2": {
-    "name": "route2",
-    "short_name": "route2",
+  "lover": {
+    "name": "lover",
+    "short_name": "lover",
     "contest": "day2",
     "max_score": 100.0,
     "extra_headers": [
-      "Subtask 1 (10)",
-      "Subtask 2 (15)",
-      "Subtask 3 (20)",
-      "Subtask 4 (20)",
-      "Subtask 5 (35)"
+      "Subtask 1 (25)",
+      "Subtask 2 (25)",
+      "Subtask 3 (25)",
+      "Subtask 4 (25)"
     ],
-    "order": 2,
-    "score_mode": "max_subtask",
-    "score_precision": 0
-  },
-  "sculpture2": {
-    "name": "sculpture2",
-    "short_name": "sculpture2",
-    "contest": "day2",
-    "max_score": 100.0,
-    "extra_headers": [
-      "Subtask 1 (13)",
-      "Subtask 2 (19)",
-      "Subtask 3 (8)",
-      "Subtask 4 (23)",
-      "Subtask 5 (7)",
-      "Subtask 6 (30)"
-    ],
-    "order": 3,
+    "order": 6,
     "score_mode": "max_subtask",
     "score_precision": 0
   }
